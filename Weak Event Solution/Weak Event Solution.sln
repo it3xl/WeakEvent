@@ -1,7 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakEventProject.NetFramework", "WeakEventProject.NetFramework\WeakEventProject.NetFramework.csproj", "{642F1520-2E4C-4784-88CE-DB094F53AAB0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakEventProject", "WeakEventProject\WeakEventProject.csproj", "{642F1520-2E4C-4784-88CE-DB094F53AAB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeakEventTestProject", "WeakEventTestProject\WeakEventTestProject.csproj", "{AA99B650-989C-4B7C-B2BA-80B5B07ADEDB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,6 +15,10 @@ Global
 		{642F1520-2E4C-4784-88CE-DB094F53AAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{642F1520-2E4C-4784-88CE-DB094F53AAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{642F1520-2E4C-4784-88CE-DB094F53AAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA99B650-989C-4B7C-B2BA-80B5B07ADEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA99B650-989C-4B7C-B2BA-80B5B07ADEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA99B650-989C-4B7C-B2BA-80B5B07ADEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA99B650-989C-4B7C-B2BA-80B5B07ADEDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
