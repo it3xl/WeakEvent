@@ -11,7 +11,7 @@ Yeah... They are mostly messy, greasy, excessive. Sorry I'm cheating. They are w
 * [Prism Event Aggregator](http://msdn.microsoft.com/en-us/library/ff921122.aspx)
 * [StoryTeller](http://storyteller.tigris.org)
 
-How about old plain .NET Framework **events**?<br/>
+But how about the old plain .NET Framework **events**?<br/>
 Now the **Weak Events**.
 
 How it works:
