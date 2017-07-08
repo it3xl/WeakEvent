@@ -5,7 +5,7 @@
 Did you hear about **[Event Aggregator](http://www.google.com/search?q=Event+Aggregator+Pattern)**?
 
 Have you tried it out?<br/>
-Yeah... They messy, greasy, excessive.
+Yeah... They are mostly messy, greasy, excessive. Sorry I'm cheating. They are wonderful, just don't fire me.
 
 * [MVVM Light Toolkit](http://mvvmlight.codeplex.com)
 * [Prism Event Aggregator](http://msdn.microsoft.com/en-us/library/ff921122.aspx)
